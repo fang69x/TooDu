@@ -1,4 +1,4 @@
-package com.example.loginpage
+package com.example.flutter_todo_app
 
 import io.flutter.embedding.android.FlutterActivity
 
